@@ -63,7 +63,7 @@ padding: 5px;
     /* border: solid 1px red; */
     display: flex;
     flex-direction: row;
-    width: 98%;
+    
     margin: 0 auto;
 
 
@@ -84,8 +84,8 @@ padding: 5px;
     /* border: solid 1px red; */
    width: 200px;
    word-break: break-all;
-   background: linear-gradient(to right,rgb(233, 233, 236),rgb(214, 212, 216));
-   
+    background-color: rgb(238, 238, 238);
+    border-right: 1px solid rgb(185, 185, 185);
 }
 
 ul.blog-ul{
@@ -123,21 +123,22 @@ ul.blog-ul li{
 .table-element{
     /* border: solid 1px rgb(102, 255, 0); */
     width:90%;
-    background: linear-gradient(to right,rgb(107,87,202),rgb(196,81,192));
+    background: linear-gradient(to right,rgb(233, 243, 241),rgb(250, 242, 242));
+    
 }
 
 
 .searchabar-container{
     width: 98%;
     margin: 0 auto;
-    height: 60px;
+    height: 70px;
     border-radius: 5px;
     display: flex;
-    padding: 5px 10px 0 10px  ;
+    padding: 0 10px 0 10px  ;
     align-items: center;
     justify-content: space-between;
     /* background-color: lightblue; */
-    background: linear-gradient(to right,lightblue,rgb(208, 233, 241));
+    background: linear-gradient(to right,rgb(62, 194, 241),rgb(88, 208, 248));
 }
 
 .searchbar-text{
