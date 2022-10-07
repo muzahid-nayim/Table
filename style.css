@@ -85,7 +85,7 @@ padding: 5px;
    width: 200px;
    word-break: break-all;
     background-color: rgb(238, 238, 238);
-    border-right: 1px solid rgb(185, 185, 185);
+    border-right: 1px solid rgb(8, 236, 225);
 }
 
 ul.blog-ul{
@@ -96,7 +96,7 @@ ul.blog-ul{
 
 ul.blog-ul li{
     /* border: solid 1px rgb(209, 209, 209); */
-    background-color: aliceblue;
+    background-color: rgb(7, 155, 209);
     margin-top: 2px;
     padding: 5px;
 }
@@ -104,7 +104,7 @@ ul.blog-ul li{
 .spand-link{
     text-decoration: none;
     color: black;
-    background-color: aliceblue;
+    background-color: rgb(15, 191, 235);
     
    display: flex;
    justify-content: space-between;
@@ -138,7 +138,7 @@ ul.blog-ul li{
     align-items: center;
     justify-content: space-between;
     /* background-color: lightblue; */
-    background: linear-gradient(to right,rgb(62, 194, 241),rgb(88, 208, 248));
+    background: linear-gradient(to right,rgb(24, 180, 236),rgb(88, 208, 248));
 }
 
 .searchbar-text{
@@ -275,7 +275,7 @@ th{
    padding: 15px 15px;
      /* border: solid 1px red; */
      color: rgb(252, 241, 247);
-     background-color: rgb(42, 50, 65);
+     background-color: rgb(6, 169, 219);
 }
 
 td{
